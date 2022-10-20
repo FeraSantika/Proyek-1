@@ -1,0 +1,32 @@
+.form-control{
+    border-radius: 30px;
+}
+.kotak {
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px #ccc;
+}
+.tombol{
+    width: 100%;
+    border-radius: 30px;
+    height: 50px;
+    background-color: #1572A1;
+    border: none;
+}
+.tombol:hover{
+    background-color: #FFC600;
+}
+a{
+    display: block;
+    color: #1572A1;
+    text-decoration: none;
+}
+.login-logo{
+    margin-top: -120px;
+    z-index: 999;
+}
+.login-logo i{
+    color: #fff;
+    font-size: 60pt;
+    background-color: #1572A1;
+}

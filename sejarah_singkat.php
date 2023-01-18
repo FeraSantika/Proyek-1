@@ -29,7 +29,7 @@
                     soluta quam recusandae deserunt culpa alias?</p>
                 </div>
             </div>
-            <br>
+            <br><br>
             <div class="button">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                     Sequi quae reiciendis quas tenetur libero ipsum, 
